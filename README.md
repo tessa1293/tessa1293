@@ -12,10 +12,10 @@ Tools: SQL; Python (Pandas, NumPy); Excel.
 
 Skills: Critical Thinking; Problem Solving; Data Analysis; Project Management; Communication; Teaching; Time Management.
 
-## Projects
+## Projects Links
 View my coding projects on [Github](https://github.com/tessa1293).
 
-## Favorite Projects
+## Portfolio Projects
 1 - [Portfolio Project: U.S. Medical Insurance](https://github.com/tessa1293/Portfolio-Project-U.S.-Medical-Insurance)
 
 ## Curently Improving My Skills In...
